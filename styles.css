@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    color: #CCDBDC;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#hero {
+    background-image: url("images/takeoff.gif");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+#main-logo {
+    width: 100px;
+}
+
+#title {
+    text-shadow: 0px 0px 4px black;
+}
+
+.btn {
+    margin-top: 10px; 
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    border-radius: 5px; 
+    font-family: 'Orbitron', sans-serif;
+    color: #263D42;
+    font-weight: 800;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
+
+#footer {
+    color: #263D42; 
+}
